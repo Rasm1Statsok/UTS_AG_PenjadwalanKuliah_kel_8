@@ -1,0 +1,5 @@
+konfigurasi,n_run,persen_valid,fitness_terbaik_rata2,fitness_terbaik_std,fitness_rata2_akhir,gen_valid_rata2,gen_valid_std,gen_valid_min,gen_valid_maks,waktu_rata2_detik
+turnamen + uniform,10,100.0,1.0,0.0,0.8167,2.2,1.5492,0,4,0.1138
+turnamen + satu_titik,10,100.0,1.0,0.0,0.8429,2.1,1.6633,0,5,0.1051
+roulette + uniform,10,100.0,1.0,0.0,0.7698,2.2,1.9322,0,6,0.1081
+roulette + satu_titik,10,100.0,1.0,0.0,0.7724,2.3,1.8886,0,6,0.1105
