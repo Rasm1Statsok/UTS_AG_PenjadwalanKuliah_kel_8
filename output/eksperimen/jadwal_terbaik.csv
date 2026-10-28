@@ -1,0 +1,21 @@
+hari,slot,jam,kode_mk,mata_kuliah,kelas,dosen,ruang,jumlah_mhs,kapasitas_ruang
+Senin,1,07.00-08.40,1DCP571032,Basis Data I,TI-3,DK,LABKOMP,35,36
+Senin,2,08.40-10.20,1DCP206020,Metodologi Penelitian,TI-5,FS,FT1,30,45
+Senin,4,12.50-14.30,1DCP913030,Kompleksitas Algoritma,TI-3,AS,FT2,35,40
+Senin,5,14.30-16.10,1DCP213032,Pemrograman Berorientasi Objek,TI-3,WD,FT2,35,40
+Selasa,2,08.40-10.20,1DCP925032,Pengolahan Citra Digital,TI-5,DR,FT2,30,40
+Selasa,2,08.40-10.20,1DCP531030,Pengantar Teknik Informatika,TI-1,FS,GKT-A-LT4,40,50
+Selasa,3,10.20-12.00,1DCP541030,Logika Diskrit,TI-1,WD,FT1,40,45
+Selasa,3,10.20-12.00,1DCP623030,Kecerdasan Buatan,TI-3,AL,FT3,35,40
+Selasa,4,12.50-14.30,1DCP313032,Jaringan Komputer,TI-3,AS,FT2,35,40
+Selasa,4,12.50-14.30,1DCP081032,Algoritma dan Pemrograman I,TI-1,WD,GKT-A-LT4,40,50
+Rabu,1,07.00-08.40,1DCP727030,Requirement Engineering,TI-7,RP,GKT-A-LT4,25,50
+Rabu,2,08.40-10.20,1DCP787030,Algoritma Genetik (MKP),TI-7,NK,FT2,25,40
+Rabu,5,14.30-16.10,1DCP737030,Administrasi Basis Data,TI-7,DK,FT3,25,40
+Rabu,5,14.30-16.10,1DCP905030,Keamanan Data dan Informasi,TI-5,AS,GKT-A-LT4,30,50
+Kamis,1,07.00-08.40,1DCP717030,Penjaminan Mutu Perangkat Lunak,TI-7,DR,LABKOMP,25,36
+Kamis,5,14.30-16.10,1DCP946030,Analisis dan Desain Perangkat Lunak,TI-5,RP,FT1,30,45
+Kamis,5,14.30-16.10,1DCP987030,Visualisasi Data,TI-7,AL,FT3,25,40
+Jumat,2,08.40-10.20,1DCP707030,Deep Learning,TI-7,NK,FT1,25,45
+Jumat,2,08.40-10.20,1DCP171030,Aljabar Vektor dan Matriks,TI-1,FS,GKT-A-LT4,40,50
+Jumat,2,08.40-10.20,1DCP223030,Interaksi Manusia dan Komputer,TI-3,DK,LABKOMP,35,36
