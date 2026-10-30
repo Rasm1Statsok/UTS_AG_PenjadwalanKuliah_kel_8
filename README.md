@@ -111,7 +111,7 @@ python main.py --seleksi roulette --crossover satu_titik --pop 50 --gen 500 --se
 
 ```
 python eksperimen.py
-python eksperimen.py --runs 10 --gen 300 --pop 100
+python eksperimen.py --runs 10 --gen 300 --pop 20
 ```
 
 **Menjalankan unit test:**
